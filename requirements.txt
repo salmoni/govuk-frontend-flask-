@@ -80,7 +80,7 @@ pygments==2.15.1
     # via rich
 python-dotenv==1.0.0
     # via -r requirements.in
-redis==4.6.0
+redis==5.0.0
     # via -r requirements.in
 rich==13.4.2
     # via flask-limiter
